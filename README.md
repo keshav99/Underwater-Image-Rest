@@ -12,4 +12,8 @@ Underwater images usually are very poorly visible, due to various absorption and
 3. Gamma Correction
 
 ## Sample Outputs
+Input
+![Input](https://github.com/keshav99/Underwater-Image-Rest/blob/master/7.jpg)
 
+Output
+![Output](https://github.com/keshav99/Underwater-Image-Rest/blob/master/result6.jpg)
